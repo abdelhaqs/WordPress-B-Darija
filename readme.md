@@ -1,2 +1,2 @@
 #FSK LABS
-This is a view js app
+This is a view js application
